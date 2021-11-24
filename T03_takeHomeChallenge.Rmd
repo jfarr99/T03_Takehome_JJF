@@ -1,0 +1,19 @@
+---
+title: "ADA 2021, T03: Boss Level Challenge"
+author: "Sara JS Wuitchik"
+date: "10/4/2021"
+output: pdf_document
+---
+
+
+
+# Boss Level challenge for T03
+
+### Question 1
+1. Send Dan, Jenna, and Sara your Github username and link to your repository that you set up today.
+
+### Question 2
+2. Have a README file in your Github repo explaining the purpose of your respository (e.g., Tutorial repo for integrating Github and RStudio, or something along those lines). Include Markdown formatting for a Heading (Hint: use the ADA Markdowns as guides for formatting or check out the RMarkdown cheat sheet in the #resources Slack channel)
+
+### Question 3
+3. Add Dan (wuitchik), Jenna (jfleet6), and Sara (sjswuitchik) as collaborators on your Github repository.
